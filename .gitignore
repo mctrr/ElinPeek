@@ -1,0 +1,6 @@
+# Build output
+obj/
+bin/
+.vs/
+*.user
+*.suo
